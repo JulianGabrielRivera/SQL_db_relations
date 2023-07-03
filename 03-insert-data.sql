@@ -8,17 +8,17 @@
 -- VALUES ('Orlando'),
 --     ('New Jersey'),
 --     ('New York')
--- INSERT INTO addresses (street, house_number, city_id)
--- VALUES ('teststreet', '8A', 1),
---     ('test2', '10', 2),
---     ('teststreet', '1', 1),
---     ('some street', '101', 3);
-INSERT INTO users (first_name, last_name, email, address_id)
-VALUES (
-        'julian',
-        'rivera',
-        'juliangabrielriveradev@gmail.com',
-        2
-    ),
-    ('Manuel', 'Rivera', 'manuelrivera@gmail.com', 3),
-    ('julie', 'barnes', 'julie@barnes.com', 3);
+INSERT INTO addresses (street, house_number, city_id)
+VALUES ('teststreet', '8A', 1),
+    ('test2', '10', 2),
+    ('teststreet', '1', 1),
+    ('some street', '101', 3);
+-- INSERT INTO users (first_name, last_name, email, address_id)
+-- VALUES (
+--         'julian',
+--         'rivera',
+--         'juliangabrielriveradev@gmail.com',
+--         2
+--     ),
+--     ('Manuel', 'Rivera', 'manuelrivera@gmail.com', 3),
+--     ('julie', 'barnes', 'julie@barnes.com', 3);
