@@ -18,4 +18,3 @@ CREATE TABLE users (
 --     id SERIAL PRIMARY KEY,
 --     city_name VARCHAR(200) NOT NULL
 -- );
--- DROP TABLE users;
